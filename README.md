@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/o%C4%9Fuzhan-karl%C4%B1-333415145/)
+
+
+
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
