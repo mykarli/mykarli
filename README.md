@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔗 &nbsp;**Connect with me**
 
-🔗  Connect with me
+
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/o%C4%9Fuzhan-karl%C4%B1-333415145/)
 
 
