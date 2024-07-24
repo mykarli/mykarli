@@ -1,4 +1,3 @@
-[![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın)
 
 <h1 align="center">Hi 👋, I'm Oğuzhan Karlı</h1>
 <h3 align="center">A passionate Fullstack Developer from Türkiye</h3>
