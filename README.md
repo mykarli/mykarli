@@ -1,48 +1,10 @@
-👋 Hi, I'm Oğuzhan Karlı
+Product-oriented Junior Fullstack Developer with a strong focus on engineering fundamentals, business analysis, and scalable system design.
 
-I'm a **Full-Stack Developer** with a strong focus on **product thinking, business logic, and problem solving**.
+I build projects not only to deliver features, but to understand user needs, product impact, and technical trade-offs.  
+My experience spans frontend development, backend systems, test automation, and exploratory Web3 projects.
 
-I build applications by first understanding **the problem, the user, and the value**, then designing clean and scalable technical solutions.
+Currently focused on improving my skills in product-driven development, clean architecture, and real-world problem solving.
 
-My background combines:
-- Engineering mindset
-- Product & user flow analysis
-- Hands-on full-stack development
-- Test automation & quality awareness
-- Web3 & blockchain experimentation
-
-I care about **why** a feature exists as much as **how** it is implemented.
-
----
-
-## 🧠 What I Focus On
-- Translating business requirements into technical solutions  
-- Designing clear user flows and MVPs  
-- Writing maintainable, testable code  
-- Balancing speed, quality, and scalability  
-
----
-
-## 🛠️ Tech Stack (Core)
-**Frontend:** React, TypeScript, HTML, CSS  
-**Backend:** .NET, Node.js, Express  
-**Testing:** Selenium, JUnit, Testing Library  
-**Web3:** Stacks, Clarity (learning & experimenting)  
-**Tools:** Git, GitHub, VS Code, Visual Studio, Figma  
-
----
-
-## 🚀 Selected Projects
-- **Personal Budget App** – Product-focused financial tracking app  
-- **E-Commerce Frontend** – User flow & conversion-oriented UI  
-- **Trendyol Test Automation** – Regression risk reduction via automated tests  
-- **MusicNFT** – Web3-based digital ownership experiment  
-
-👉 Each project is documented with **problem statements, decisions, and trade-offs**.
-
----
-
-📫 Feel free to explore my repositories or reach out.
 
 
 ## 🚀 Technologies I Use
