@@ -1,9 +1,8 @@
-Product-oriented Junior Fullstack Developer with a strong focus on engineering fundamentals, business analysis, and scalable system design.
+Product-oriented Fullstack Developer focused on engineering fundamentals, business analysis, and scalable system design.
 
-I build projects not only to deliver features, but to understand user needs, product impact, and technical trade-offs.  
-My experience spans frontend development, backend systems, test automation, and exploratory Web3 projects.
+I build projects not just to deliver features, but to understand user needs, product impact, and technical trade-offs across frontend, backend, test automation, and Web3 experimentation.
 
-Currently focused on improving my skills in product-driven development, clean architecture, and real-world problem solving.
+Currently improving my skills in product-driven development, clean architecture, and real-world problem solving.
 
 
 
