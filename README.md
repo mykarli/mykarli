@@ -1,7 +1,49 @@
-👋 Hi there, I'm Oğuzhan Karlı!  
-I'm a **Full-Stack Developer** passionate about building secure, scalable, and creative applications.  
-Experienced with **.NET, React, and Web3 (Stacks & Clarity)** ecosystems.  
-I enjoy designing clean architectures, writing tested code, and combining creativity from my musical background into problem solving.
+👋 Hi, I'm Oğuzhan Karlı
+
+I'm a **Full-Stack Developer** with a strong focus on **product thinking, business logic, and problem solving**.
+
+I build applications by first understanding **the problem, the user, and the value**, then designing clean and scalable technical solutions.
+
+My background combines:
+- Engineering mindset
+- Product & user flow analysis
+- Hands-on full-stack development
+- Test automation & quality awareness
+- Web3 & blockchain experimentation
+
+I care about **why** a feature exists as much as **how** it is implemented.
+
+---
+
+## 🧠 What I Focus On
+- Translating business requirements into technical solutions  
+- Designing clear user flows and MVPs  
+- Writing maintainable, testable code  
+- Balancing speed, quality, and scalability  
+
+---
+
+## 🛠️ Tech Stack (Core)
+**Frontend:** React, TypeScript, HTML, CSS  
+**Backend:** .NET, Node.js, Express  
+**Testing:** Selenium, JUnit, Testing Library  
+**Web3:** Stacks, Clarity (learning & experimenting)  
+**Tools:** Git, GitHub, VS Code, Visual Studio, Figma  
+
+---
+
+## 🚀 Selected Projects
+- **Personal Budget App** – Product-focused financial tracking app  
+- **E-Commerce Frontend** – User flow & conversion-oriented UI  
+- **Trendyol Test Automation** – Regression risk reduction via automated tests  
+- **MusicNFT** – Web3-based digital ownership experiment  
+
+👉 Each project is documented with **problem statements, decisions, and trade-offs**.
+
+---
+
+📫 Feel free to explore my repositories or reach out.
+
 
 ## 🚀 Technologies I Use
 
