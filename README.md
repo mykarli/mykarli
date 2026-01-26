@@ -1,10 +1,9 @@
+
 Product-oriented Fullstack Developer focused on engineering fundamentals, business analysis, and scalable system design.
 
-I build projects not just to deliver features, but to understand user needs, product impact, and technical trade-offs across frontend, backend, test automation, and Web3 experimentation.
+I build projects to understand user needs, product impact, and technical trade-offs across frontend, backend, test automation, and interactive environments. My approach combines robust engineering with the exploration of Web3 and real-time systems in Unity.
 
-Currently improving my skills in product-driven development, clean architecture, and real-world problem solving.
-
-
+Dedicated to product-driven development, clean architecture, and solving real-world problems through multidisciplinary technical expertise.
 
 ## 🚀 Technologies I Use
 
